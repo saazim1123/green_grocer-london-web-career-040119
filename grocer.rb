@@ -8,7 +8,7 @@ def consolidate_cart(cart)
          
        else
          hash[name] = info
-         
+         hash[name][:count] = 1
          
       end
     end
