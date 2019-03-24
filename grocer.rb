@@ -4,6 +4,7 @@ end
 
 def apply_coupons(cart, coupons)
   # code here
+  hash = {}
 end
 
 def apply_clearance(cart)
