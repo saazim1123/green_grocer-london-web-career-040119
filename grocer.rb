@@ -3,7 +3,7 @@ def consolidate_cart(cart)
   hash = {}
   cart.each do |item|
     item.each do |name, info|
-      if 
+      if hash[name]
         
       end
     end
