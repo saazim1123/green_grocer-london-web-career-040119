@@ -9,6 +9,7 @@ def consolidate_cart(cart)
        else
          hash[name] = info
          
+         
       end
     end
   end
